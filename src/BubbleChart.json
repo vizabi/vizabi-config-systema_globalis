@@ -14,8 +14,8 @@
     },
     "time": {
       "startOrigin": "1800",
-      "endOrigin": "2015",
-      "value": "2015",
+      "endOrigin": "2018",
+      "value": "2018",
       "dim": "time"
     },
     "marker": {
@@ -89,7 +89,7 @@
   },
   "ui": {
     "datawarning": {
-      "doubtDomain": [1800, 1950, 2015],
+      "doubtDomain": [1800, 1950, 2018],
       "doubtRange": [1.0, 0.3, 0.2]
     },
     "splash": true
